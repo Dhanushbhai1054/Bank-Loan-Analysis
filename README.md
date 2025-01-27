@@ -17,6 +17,15 @@
 ## Overview
 This project analyzes a bank's loan performance using SQL for data validation and Tableau for visualization. The aim is to gain insights into loan applications, funded amounts, repayments, and trends, enabling better decision-making and strategy refinement.
 
+## Software Used
+
+The following software tools were utilized in this project:
+
+- **Microsoft SQL Server**: For running queries to validate and analyze the dataset.
+- **Tableau**: For creating interactive dashboards and visualizations.
+- **Microsoft PowerPoint**: For documenting and presenting the dataset and dashboards.
+
+
 ## Problem Statement
 We aim to create a report to evaluate the bank's lending activities, track loan performance, and identify trends to improve strategies. Key objectives include:
 - Monitoring loan application volumes and trends.
@@ -48,16 +57,34 @@ Provides visual insights through:
 A comprehensive, user-friendly dashboard offering detailed loan performance data to facilitate quick and informed decisions.
 
 ## Dataset
-The dataset contains critical loan metrics. Here is the dataset ('https://github.com/Dhanushbhai1054/Bank-Loan-Analysis/blob/main/financial_loan.csv').A PowerPoint presentation ('https://github.com/Dhanushbhai1054/Bank-Loan-Analysis/blob/main/Data%20Set%20%20Presentation.pptx') is included to explain each column for users unfamiliar with the terminology.
+The dataset contains critical loan metrics. Here is the [Dataset](https://github.com/Dhanushbhai1054/Bank-Loan-Analysis/blob/main/financial_loan.csv).  
+A PowerPoint presentation is included to explain each column for users unfamiliar with the terminology: [Dataset Presentation](https://github.com/Dhanushbhai1054/Bank-Loan-Analysis/blob/main/Data%20Set%20%20Presentation.pptx).
 
 ## SQL Queries
-The SQL file (`https://github.com/Dhanushbhai1054/Bank-Loan-Analysis/blob/main/SQL%20QUERIES.sql`) includes all the queries and this PDF file ('https://github.com/Dhanushbhai1054/Bank-Loan-Analysis/blob/main/SQL%20QUERIES%20BANK%20LOAN%20REPORT.pdf') used to validate and verify the Tableau dashboard results.
+The SQL file includes all the queries used to validate and verify the Tableau dashboard results: [SQL Queries](https://github.com/Dhanushbhai1054/Bank-Loan-Analysis/blob/main/SQL%20QUERIES.sql).  
+A PDF file detailing the SQL queries is also included: [SQL Queries PDF](https://github.com/Dhanushbhai1054/Bank-Loan-Analysis/blob/main/SQL%20QUERIES%20BANK%20LOAN%20REPORT.pdf).
 
 ## Tableau Dashboards
-Screenshots of the three Tableau dashboards (`Dashboard_1.png`, `Dashboard_2.png`, `Dashboard_3.png`) are provided for quick reference.
 
-## Video Demonstration
-A video guide (`Demo.mp4`) is included to walk through the dashboards and highlight key insights.
+Below are the three dashboards created for the Bank Loan Analysis project:
+
+### Dashboard 1: Summary
+![Dashboard 1: Summary](https://github.com/Dhanushbhai1054/Bank-Loan-Analysis/blob/main/SUMMARY.png)
+
+### Dashboard 2: Overview
+![Dashboard 2: Overview](https://github.com/Dhanushbhai1054/Bank-Loan-Analysis/blob/main/OVERVIEW.png)
+
+### Dashboard 3: Details
+![Dashboard 3: Details](https://github.com/Dhanushbhai1054/Bank-Loan-Analysis/blob/main/DETAILS.png)
+
+## Dashboard Presentation
+
+A PowerPoint presentation showcasing the dashboards is available for review: [Dashboard Presentation](https://github.com/Dhanushbhai1054/Bank-Loan-Analysis/blob/main/DASHBOARD%20TABLEAU.pptx).
+
+##  Demo Video
+
+Watch the demo video for an overview of the project: [Final Demo Video](https://github.com/Dhanushbhai1054/Bank-Loan-Analysis/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4).
+
 
 ## How to Use
 1. Clone this repository.
@@ -66,5 +93,6 @@ A video guide (`Demo.mp4`) is included to walk through the dashboards and highli
 4. Open the Tableau dashboards for interactive data visualization.
 5. Watch the video demonstration for a guided tour of the dashboards.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+## Author
+
+T**Venkata Sai Dhanush Miriyala**.
