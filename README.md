@@ -48,10 +48,10 @@ Provides visual insights through:
 A comprehensive, user-friendly dashboard offering detailed loan performance data to facilitate quick and informed decisions.
 
 ## Dataset
-The dataset contains critical loan metrics. A PowerPoint presentation (`Dataset_Details.pptx`) is included to explain each column for users unfamiliar with the terminology.
+The dataset contains critical loan metrics. Here is the dataset ('https://github.com/Dhanushbhai1054/Bank-Loan-Analysis/blob/main/financial_loan.csv').A PowerPoint presentation ('https://github.com/Dhanushbhai1054/Bank-Loan-Analysis/blob/main/Data%20Set%20%20Presentation.pptx') is included to explain each column for users unfamiliar with the terminology.
 
 ## SQL Queries
-The SQL file (`BankLoanAnalysis.sql`) includes all the queries used to validate and verify the Tableau dashboard results.
+The SQL file (`https://github.com/Dhanushbhai1054/Bank-Loan-Analysis/blob/main/SQL%20QUERIES.sql`) includes all the queries and this PDF file ('https://github.com/Dhanushbhai1054/Bank-Loan-Analysis/blob/main/SQL%20QUERIES%20BANK%20LOAN%20REPORT.pdf') used to validate and verify the Tableau dashboard results.
 
 ## Tableau Dashboards
 Screenshots of the three Tableau dashboards (`Dashboard_1.png`, `Dashboard_2.png`, `Dashboard_3.png`) are provided for quick reference.
