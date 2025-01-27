@@ -12,7 +12,6 @@
 - [Tableau Dashboards](#tableau-dashboards)
 - [Video Demonstration](#video-demonstration)
 - [How to Use](#how-to-use)
-- [License](#license)
 
 ## Overview
 This project analyzes a bank's loan performance using SQL for data validation and Tableau for visualization. The aim is to gain insights into loan applications, funded amounts, repayments, and trends, enabling better decision-making and strategy refinement.
