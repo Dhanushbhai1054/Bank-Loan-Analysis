@@ -94,4 +94,4 @@ Watch the demo video for an overview of the project: [Final Demo Video](https://
 
 ## Author
 
-T**Venkata Sai Dhanush Miriyala**.
+**Venkata Sai Dhanush Miriyala**.
